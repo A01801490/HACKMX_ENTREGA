@@ -10,7 +10,9 @@ Proyecto desarrollado para el HACKMX6 Sede TEC CEM.
 _Datos para el inicio de sesión_
 
 Ingresar al workspace: **NERVHACK**
+
 Correo electrónico: **a01801490@tec.mx**
+
 contraseña: **Nervehack2024**
 
 Ingresar en la aplicación GestionTotal.
