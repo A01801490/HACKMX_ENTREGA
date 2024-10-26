@@ -15,7 +15,9 @@ Correo electrónico: **a01801490@tec.mx**
 
 contraseña: **Nervehack2024**
 
-Ingresar en la aplicación GestionTotal.
-Dar click en el botón de play que se encuentra en la parte superior derecha o para editar los comandos.
-Cerca de la esquina superior superior derecha, aparecerá un botón para "Instalar" la app, esto funciona tanto en computadoras como en dispositivos móviles.
+- Ingresar en la aplicación GestionTotal.
+  
+- Dar click en el botón de play que se encuentra en la parte superior derecha o para editar los comandos.
+  
+Nota: Cerca de la esquina superior superior derecha, aparecerá un botón para "Instalar" la app, esto funciona tanto en computadoras como en dispositivos móviles.
 
