@@ -7,7 +7,7 @@ Proyecto desarrollado para el HACKMX6 Sede TEC CEM.
 1. Ingresar a la página Oracle APEX
 2. Dar click en iniciar sesión
 
-3. Para acceder directamente a la interfaz de usuario de la App, usar el siguiente link: https://apex.oracle.com/pls/apex/r/nervhack/gestion-total/inicio¿
+3. Para acceder directamente a la interfaz de usuario de la App, usar el siguiente link: https://apex.oracle.com/pls/apex/r/nervhack/gestion-total/inicio
    
 _Datos para el inicio de sesión_
 
